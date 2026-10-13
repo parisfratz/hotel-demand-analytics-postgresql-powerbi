@@ -31,6 +31,17 @@ This project analyzes hotel booking data to evaluate booking demand, cancellatio
    * Established dynamic measures including `Total Bookings` (`COUNTROWS`) and `Cancellation Rate` (`DIVIDE` / `CALCULATE`).
    * Configured executive KPI card visuals, monthly trends, and segmental comparisons.
 
+## 💡 Business Problem & Value
+* **Problem:** Hotel management lacked a centralized view to track booking volume trends and isolate key drivers of high cancellation rates across different hotel types.
+* **Solution:** Developed an integrated data pipeline and executive dashboard that highlights operational seasonality, tracks revenue-at-risk from cancellations, and enables data-driven decision-making for overbooking and promotional strategies.
+
+---
+
+## 🔮 Future Improvements (Next Steps)
+If given additional time and data resources, the next iterations of this project would include:
+* **Advanced Analytics:** Building predictive models (e.g., Logistic Regression or XGBoost) to forecast cancellation probability per booking.
+* **Data Integration:** Connecting directly to live APIs or pipeline tools (e.g., Apache Airflow / dbt) for automated data ingestion.
+* **Deeper Segmentation:** Incorporating customer demographic and marketing channel data to calculate Customer Lifetime Value (CLV).
 ---
 
 ## 📂 Repository Structure
