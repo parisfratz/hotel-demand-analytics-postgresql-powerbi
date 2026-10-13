@@ -36,3 +36,8 @@ This project analyzes hotel booking data to evaluate booking demand, cancellatio
 ## 📂 Repository Structure
 * `sql/` - Contains SQL scripts and View definitions used for data prep.
 * `docs/` - Dashboard screenshots and documentation assets.
+
+* ---
+
+## 🖼️ Dashboard Preview
+![Hotel Booking Dashboard](docs/portfolio-project1.jpg)
